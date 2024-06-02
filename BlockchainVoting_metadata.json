@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.18+commit.87f61d96"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/BlockchainVoting.sol": "BlockchainVoting"
+		},
+		"evmVersion": "paris",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/BlockchainVoting.sol": {
+			"keccak256": "0xb929f3594e1724657132b9ccad7f5578e90f6433bf38bb502a3ecd52c7746cb1",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://65da9cf422f2f7053dc2dbc53250dd0aa0a8b01b2f46905a0870b1e8b22019d1",
+				"dweb:/ipfs/Qmc6dLTFi5Zf57CdnmJQymmic3rLpLBUtL7k41PNi97Jv1"
+			]
+		}
+	},
+	"version": 1
+}
